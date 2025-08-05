@@ -66,11 +66,11 @@ February and January were safest — likely due to reduced travel or weather-ind
 Monday had the highest collisions, likely due to weekday rush hour stress and fatigue. Weekends, especially Sunday, saw fewer accidents.
 
 # Recommendations
-Improve Data Collection: The high "Unspecified" rate suggests a need for better accident report training for officers.
-Target High-Risk Corridors: Focus safety resources on Belt Parkway, Broadway, and major expressways.
-Behavior-Focused Campaigns: Specifically address driver inattention and tailgating.
-Seasonal Resource Allocation: More patrols and awareness in high-accident months.
-Tech Integration: Use AI-powered surveillance or sensors on high-risk roads for early detection and prevention.
+*Improve Data Collection: The high "Unspecified" rate suggests a need for better accident report training for officers.
+*Target High-Risk Corridors: Focus safety resources on Belt Parkway, Broadway and major expressways.
+*Behavior-Focused Campaigns: Specifically address driver inattention and tailgating.
+*Seasonal Resource Allocation: More patrols and awareness in high-accident months.
+*Tech Integration: Use AI-powered surveillance or sensors on high-risk roads for early detection and prevention.
 
 
 [LinkedIn](www.linkedin.com/in/temitope-lokoyi-011243126)
